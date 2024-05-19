@@ -1,6 +1,6 @@
 # CHAPY: A GenAI Based Python Programming Assistant Prototype
 
-A Python programming Assistant Application Prototype based on GPT for local files. Users can interact with the app 
+A Python Assistant Application Prototype based on GPT for local files. Users can interact with the app 
 through test or voice messages. 
 
 ## Requirements
